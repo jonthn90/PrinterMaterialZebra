@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">JamarPrint</string>
+
+    <string name="no_compatible">No compatible</string>
+    <string name="no_bluetooh">Tu teléfono no tiene Bluetooth</string>
+    <string name="exit">Salir</string>
+
+    <string name="conected">Conectado</string>
+    <string name="conecting">Conectando</string>
+
+    <string name="time_search_expired">Termino la busqueda Bluetooth</string>
+    <string name="searching">Buscando</string>
+    <string name="search">Buscar</string>
+    <string name="stop">Detener</string>
+    <string name="search_sttoped">Búsqueda detenida</string>
+    <string name="no_devices">Ningun dispositivo encontrado, intente de nuevo</string>
+
+
+
+    <string name="no_name">Sin nombre</string>
+
+    <string name="error_mac">No se puede conectar, dirección MAC del dispotivo invalida</string>
+    <string name="error_no_zebra">No se puede conectar, verifique que sí es una impresora Zebra</string>
+    <string name="error_printing">Error al imprimir</string>
+
+    <string name="link_dialog">¿Vincularse al dispositivo?</string>
+    <string name="link">Vincularse</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no_printer">No es impresora</string>
+    <string name="linking">Vinculando...</string>
+    <string name="ok">OK</string>
+    <string name="printer">Impresora: </string>
+    <string name="error_connect">Error al conectar con la impresora</string>
+    <string name="printing">Imprimiendo...</string>
+
+    <string name="conect_title">¿Conectarse al dispositivo?</string>
+    <string name="conect_message">Conectar con: </string>
+    <string name="conect">Conectar</string>
+
+
+    <string name="finished_print">Impresión completa</string>
+
+    <string name="printer_offline">Impresora desconectada</string>
+    <string name="paper_empty">No tiene papel</string>
+    <string name="cover_open">La tapa esta abierta</string>
+
+</resources>
